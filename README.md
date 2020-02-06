@@ -7,3 +7,5 @@ This word is **bold**.
 Here is a list
 - list one
 - list two
+
+[this is the link text](day1.md)
