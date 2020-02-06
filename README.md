@@ -1,4 +1,4 @@
-# test-repo
+# test-repo (White Sox)
 From Bradford's talk, 2/6/2020
 
 This word is in *italics*.
